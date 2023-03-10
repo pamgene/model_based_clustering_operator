@@ -3,13 +3,13 @@
   "description": "Model-based clustering based on finite normal mixture modelling",
   "tags": ["clustering", "pamgene"],
   "authors": ["tercen"],
-  "urls": ["https://github.com/tercen/model_based_clustering_operator"],
-    "properties": [
-   {
-    "kind": "StringProperty",
-    "name": "Number of clusters",
-    "defaultValue": "auto",
-    "description": "Number of clusters (auto = optimal number of clusters will be estimated)"
+  "urls": ["https://github.com/pamgene/model_based_clustering_operator"],
+  "properties": [
+    {
+      "kind": "StringProperty",
+      "name": "Number of clusters",
+      "defaultValue": "auto",
+      "description": "Number of clusters (auto = optimal number of clusters will be estimated)"
     }
   ]
 }
